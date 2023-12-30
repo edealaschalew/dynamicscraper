@@ -1,0 +1,270 @@
+{'description': 'wsw of Hermannsburg, 224km from Alice Springs', 'state': 'NT', 'postCode': 'Areyonga', 'displayAddress': 'wsw of Hermannsburg, 224km from Alice Springs, Areyonga, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Amanbidgi (Kildirk)', 'displayAddress': 'N/A, Amanbidgi (Kildirk), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Umbakumba', 'displayAddress': 'N/A, Umbakumba, NT'}
+{'description': '73 Yanyula Dr', 'state': 'NT', 'postCode': 'Anula', 'displayAddress': '73 Yanyula Dr, Anula, NT'}
+{'description': 'Cnr Flinders St & Ayawarra Cr', 'state': 'NT', 'postCode': 'Alyangula', 'displayAddress': 'Cnr Flinders St & Ayawarra Cr, Alyangula, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Amoonguna', 'displayAddress': 'N/A, Amoonguna, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Angurugu', 'displayAddress': 'N/A, Angurugu, NT'}
+{'description': '73 Yanyula Dr', 'state': 'NT', 'postCode': 'Anula, 0812', 'displayAddress': '73 Yanyula Dr, Anula, 0812, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Angurugu', 'displayAddress': 'N/A, Angurugu, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Ampilatwatja (Ammaroo)', 'displayAddress': 'N/A, Ampilatwatja (Ammaroo), NT'}
+{'description': '10 Blain St', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '10 Blain St, Alice Springs, NT'}
+{'description': '21 Winmati St', 'state': 'NT', 'postCode': 'Yulara, 0872', 'displayAddress': '21 Winmati St, Yulara, 0872, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Alpurrurulam (Lake Nash)', 'displayAddress': 'N/A, Alpurrurulam (Lake Nash), NT'}
+{'description': 'Lot 9523 Ragonesi Rd', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': 'Lot 9523 Ragonesi Rd, Alice Springs, 0870, NT'}
+{'description': 'Milner Road', 'state': 'NT', 'postCode': 'Alice SPrings, 0870', 'displayAddress': 'Milner Road, Alice SPrings, 0870, NT'}
+{'description': '130 Zuccoli Parade', 'state': 'NT', 'postCode': 'Zuccoli, 0830', 'displayAddress': '130 Zuccoli Parade, Zuccoli, 0830, NT'}
+{'description': 'Conniston Rd', 'state': 'NT', 'postCode': 'Yuendumu', 'displayAddress': 'Conniston Rd, Yuendumu, NT'}
+{'description': '80 Head St', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '80 Head St, Alice Springs, 0870, NT'}
+{'description': 'Cnr Flinders St & Ayawarra Cr', 'state': 'NT', 'postCode': 'Alyangula', 'displayAddress': 'Cnr Flinders St & Ayawarra Cr, Alyangula, NT'}
+{'description': 'Conniston Road', 'state': 'NT', 'postCode': 'Yuendumu', 'displayAddress': 'Conniston Road, Yuendumu, NT'}
+{'description': 'Community ID 868', 'state': 'NT', 'postCode': 'Wurankuwu', 'displayAddress': 'Community ID 868, Wurankuwu, NT'}
+{'description': 'Rankine Road', 'state': 'NT', 'postCode': 'Yirrkala', 'displayAddress': 'Rankine Road, Yirrkala, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Yarralin', 'displayAddress': 'N/A, Yarralin, NT'}
+{'description': 'Rankine Road', 'state': 'NT', 'postCode': 'Yirrkala', 'displayAddress': 'Rankine Road, Yirrkala, NT'}
+{'description': 'Kerinauia Hwy', 'state': 'NT', 'postCode': 'Nguiu', 'displayAddress': 'Kerinauia Hwy, Nguiu, NT'}
+{'description': '470 South Stuart Highway', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '470 South Stuart Highway, Alice Springs, NT'}
+{'description': 'Lovegrove Dr', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': 'Lovegrove Dr, Alice Springs, NT'}
+{'description': '24 Brolga St', 'state': 'NT', 'postCode': 'Wulagi', 'displayAddress': '24 Brolga St, Wulagi, NT'}
+{'description': '24 Brolga St', 'state': 'NT', 'postCode': 'Wulagi, 0812', 'displayAddress': '24 Brolga St, Wulagi, 0812, NT'}
+{'description': 'Laiwanga St', 'state': 'NT', 'postCode': 'Wugularr', 'displayAddress': 'Laiwanga St, Wugularr, NT'}
+{'description': '55 Woodroffe Ave', 'state': 'NT', 'postCode': 'Woodroffe', 'displayAddress': '55 Woodroffe Ave, Woodroffe, NT'}
+{'description': 'Wooliana Rd', 'state': 'NT', 'postCode': 'Daly River', 'displayAddress': 'Wooliana Rd, Daly River, NT'}
+{'description': 'Litchfield Park Rd', 'state': 'NT', 'postCode': 'Litchfield Park', 'displayAddress': 'Litchfield Park Rd, Litchfield Park, NT'}
+{'description': '55 Woodroffe Ave', 'state': 'NT', 'postCode': 'Woodroffe, 0830', 'displayAddress': '55 Woodroffe Ave, Woodroffe, 0830, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Willowra', 'displayAddress': 'N/A, Willowra, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Mt Liebig', 'displayAddress': 'N/A, Mt Liebig, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Walungurru (Kintore)', 'displayAddress': 'N/A, Walungurru (Kintore), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Warruwi (Goulburn Island), 0822', 'displayAddress': 'N/A, Warruwi (Goulburn Island), 0822, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Wallace Rockhole', 'displayAddress': 'N/A, Wallace Rockhole, NT'}
+{'description': '46 Gsell St', 'state': 'NT', 'postCode': 'Wanguri, 0810', 'displayAddress': '46 Gsell St, Wanguri, 0810, NT'}
+{'description': '35 Wagaman Tce', 'state': 'NT', 'postCode': 'Wagaman, 0810', 'displayAddress': '35 Wagaman Tce, Wagaman, 0810, NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Lilla Community', 'displayAddress': 'n/a, Lilla Community, NT'}
+{'description': '46 Gsell St', 'state': 'NT', 'postCode': 'Wanguri', 'displayAddress': '46 Gsell St, Wanguri, NT'}
+{'description': '35 Wagaman Tce', 'state': 'NT', 'postCode': 'Wagaman', 'displayAddress': '35 Wagaman Tce, Wagaman, NT'}
+{'description': 'Daly River Road', 'state': 'NT', 'postCode': 'Tipperary', 'displayAddress': 'Daly River Road, Tipperary, NT'}
+{'description': 'Blyth St', 'state': 'NT', 'postCode': 'Rittarangu (Urapunga)', 'displayAddress': 'Blyth St, Rittarangu (Urapunga), NT'}
+{'description': 'Tivendale Road', 'state': 'NT', 'postCode': 'Berrimah, 0828', 'displayAddress': 'Tivendale Road, Berrimah, 0828, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Titjikala (Maryvale)', 'displayAddress': 'N/A, Titjikala (Maryvale), NT'}
+{'description': '62 Wilson St', 'state': 'NT', 'postCode': 'Timber Creek', 'displayAddress': '62 Wilson St, Timber Creek, NT'}
+{'description': '1 Malak Place', 'state': 'NT', 'postCode': 'Malak, 0812', 'displayAddress': '1 Malak Place, Malak, 0812, NT'}
+{'description': 'Pickertaramoor Melville Island', 'state': 'NT', 'postCode': None, 'displayAddress': 'Pickertaramoor Melville Island, , NT'}
+{'description': '26 Palmer St', 'state': 'NT', 'postCode': 'Ti-Tree', 'displayAddress': '26 Palmer St, Ti-Tree, NT'}
+{'description': '31 Paterson St', 'state': 'NT', 'postCode': 'Tennant Creek, 0860', 'displayAddress': '31 Paterson St, Tennant Creek, 0860, NT'}
+{'description': '31 Paterson St', 'state': 'NT', 'postCode': 'Tennant Creek', 'displayAddress': '31 Paterson St, Tennant Creek, NT'}
+{'description': '8 Nudl St', 'state': 'NT', 'postCode': 'Stuart Park', 'displayAddress': '8 Nudl St, Stuart Park, NT'}
+{'description': '38 Stuart St', 'state': 'NT', 'postCode': 'Tennant Creek', 'displayAddress': '38 Stuart St, Tennant Creek, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Wilora (Stirling Station) 0872', 'displayAddress': 'N/A, Wilora (Stirling Station) 0872, NT'}
+{'description': '8 Nudl St', 'state': 'NT', 'postCode': 'Stuart Park, 0820', 'displayAddress': '8 Nudl St, Stuart Park, 0820, NT'}
+{'description': '70 Challoner Cct', 'state': 'NT', 'postCode': 'Humpty Doo', 'displayAddress': '70 Challoner Cct, Humpty Doo, NT'}
+{'description': '2 Ulpaya Rd', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '2 Ulpaya Rd, Alice Springs, NT'}
+{'description': 'Youth Hub, 3 Wills Terrace, ', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': 'Youth Hub, 3 Wills Terrace, , Alice Springs, 0870, NT'}
+{'description': '3 Lindsay St', 'state': 'NT', 'postCode': 'Darwin City', 'displayAddress': '3 Lindsay St, Darwin City, NT'}
+{'description': '54 Salonika St', 'state': 'NT', 'postCode': 'The Gardens', 'displayAddress': '54 Salonika St, The Gardens, NT'}
+{'description': 'Maluka Rd', 'state': 'NT', 'postCode': 'Katherine East', 'displayAddress': 'Maluka Rd, Katherine East, NT'}
+{'description': '56 Challoner Cct', 'state': 'NT', 'postCode': 'Humpty Doo', 'displayAddress': '56 Challoner Cct, Humpty Doo, NT'}
+{'description': '41 Francis St', 'state': 'NT', 'postCode': 'Rapid Creek', 'displayAddress': '41 Francis St, Rapid Creek, NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Nauiyu', 'displayAddress': 'n/a, Nauiyu, NT'}
+{'description': '5/90 Ross Smith Ave', 'state': 'NT', 'postCode': 'Fannie Bay, 0820', 'displayAddress': '5/90 Ross Smith Ave, Fannie Bay, 0820, NT'}
+{'description': 'Wakirana St', 'state': 'NT', 'postCode': 'Galiwinku', 'displayAddress': 'Wakirana St, Galiwinku, NT'}
+{'description': '1 Nemarluk Drive', 'state': 'NT', 'postCode': 'Ludmilla, NT, 0820', 'displayAddress': '1 Nemarluk Drive, Ludmilla, NT, 0820, NT'}
+{'description': '34 Emery Ave', 'state': 'NT', 'postCode': 'Woodroffe', 'displayAddress': '34 Emery Ave, Woodroffe, NT'}
+{'description': 'Wakirana St', 'state': 'NT', 'postCode': 'Galiwinku, 0822', 'displayAddress': 'Wakirana St, Galiwinku, 0822, NT'}
+{'description': '15 Sattler Cres', 'state': 'NT', 'postCode': 'Freds Pass', 'displayAddress': '15 Sattler Cres, Freds Pass, NT'}
+{'description': '80 Spearwood Rd', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '80 Spearwood Rd, Alice Springs, 0870, NT'}
+{'description': '60 Matthews Rd', 'state': 'NT', 'postCode': 'Malak, 0812', 'displayAddress': '60 Matthews Rd, Malak, 0812, NT'}
+{'description': 'Rocklands Drive, Tiwi', 'state': 'NT', 'postCode': 'Tiwi, 0810', 'displayAddress': 'Rocklands Drive, Tiwi, Tiwi, 0810, NT'}
+{'description': '7 Winnecke Ave', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '7 Winnecke Ave, Alice Springs, 0870, NT'}
+{'description': 'Belyuen Road Rosebery', 'state': 'NT', 'postCode': 'Rosebery, 0832', 'displayAddress': 'Belyuen Road Rosebery, Rosebery, 0832, NT'}
+{'description': 'Community ID 259', 'state': 'NT', 'postCode': 'Wogyala', 'displayAddress': 'Community ID 259, Wogyala, NT'}
+{'description': '133Lewangu Drive', 'state': 'NT', 'postCode': 'Ramingining, 0822', 'displayAddress': '133Lewangu Drive, Ramingining, 0822, NT'}
+{'description': '2 Mckay St', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '2 Mckay St, Alice Springs, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Robinson River', 'displayAddress': 'N/A, Robinson River, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Ramingining', 'displayAddress': 'N/A, Ramingining, NT'}
+{'description': 'Pularumpi', 'state': 'NT', 'postCode': 'Pirlangimpi', 'displayAddress': 'Pularumpi, Pirlangimpi, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Pine Creek, 0847', 'displayAddress': 'N/A, Pine Creek, 0847, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Pigeon Hole', 'displayAddress': 'N/A, Pigeon Hole, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Papunya, 0872', 'displayAddress': 'N/A, Papunya, 0872, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Peppimenarti', 'displayAddress': 'N/A, Peppimenarti, NT'}
+{'description': '52 Urquhart Street', 'state': 'NT', 'postCode': 'Parap, 0820', 'displayAddress': '52 Urquhart Street, Parap, 0820, NT'}
+{'description': '61 Ross Smith Ave', 'state': 'NT', 'postCode': 'Parap', 'displayAddress': '61 Ross Smith Ave, Parap, NT'}
+{'description': '10 Tilston Ave', 'state': 'NT', 'postCode': 'Driver, 0830', 'displayAddress': '10 Tilston Ave, Driver, 0830, NT'}
+{'description': 'Stuart Highway', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': 'Stuart Highway, Alice Springs, 0870, NT'}
+{'description': '50 Waler Road, Marlow Lagoon', 'state': 'NT', 'postCode': 'Marlow Lagoon', 'displayAddress': '50 Waler Road, Marlow Lagoon, Marlow Lagoon, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Nyirripi', 'displayAddress': 'N/A, Nyirripi, NT'}
+{'description': 'not available', 'state': 'NT', 'postCode': 'not available', 'displayAddress': 'not available, not available, NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Yulara', 'displayAddress': 'n/a, Yulara, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Kaltukatjara (Docker River)', 'displayAddress': 'N/A, Kaltukatjara (Docker River), NT'}
+{'description': '5 Bath St', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '5 Bath St, Alice Springs, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Numbulwar', 'displayAddress': 'N/A, Numbulwar, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Numbulwar', 'displayAddress': 'N/A, Numbulwar, NT'}
+{'description': '8 Traeger Ave', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '8 Traeger Ave, Alice Springs, NT'}
+{'description': '70 Mueller Rd', 'state': 'NT', 'postCode': 'Karama', 'displayAddress': '70 Mueller Rd, Karama, NT'}
+{'description': 'Sadadeen Rd', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': 'Sadadeen Rd, Alice Springs, NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Wadeye (Port Keats)', 'displayAddress': 'n/a, Wadeye (Port Keats), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Hermannsburg (Ntaria)', 'displayAddress': 'N/A, Hermannsburg (Ntaria), NT'}
+{'description': '17 Pandanus St', 'state': 'NT', 'postCode': 'Nightcliff, 0810', 'displayAddress': '17 Pandanus St, Nightcliff, 0810, NT'}
+{'description': 'The Bullocky Point Education Precinct, Atkins Dr', 'state': 'NT', 'postCode': 'The Gardens, 0820', 'displayAddress': 'The Bullocky Point Education Precinct, Atkins Dr, The Gardens, 0820, NT'}
+{'description': '60 Matthews Rd', 'state': 'NT', 'postCode': 'Wulagi 0812', 'displayAddress': '60 Matthews Rd, Wulagi 0812, NT'}
+{'description': '36 Chesterfield Cct', 'state': 'NT', 'postCode': 'Nhulunbuy', 'displayAddress': '36 Chesterfield Cct, Nhulunbuy, NT'}
+{'description': '17 Pandanus St', 'state': 'NT', 'postCode': 'Nightcliff', 'displayAddress': '17 Pandanus St, Nightcliff, NT'}
+{'description': '60 Chesterfield Cct', 'state': 'NT', 'postCode': 'Nhulunbuy, 0880', 'displayAddress': '60 Chesterfield Cct, Nhulunbuy, 0880, NT'}
+{'description': '90 Aralia St', 'state': 'NT', 'postCode': 'Rapid Creek, 0810', 'displayAddress': '90 Aralia St, Rapid Creek, 0810, NT'}
+{'description': '51 Matthew Flinders Way', 'state': 'NT', 'postCode': 'Nhulunbuy, 0880', 'displayAddress': '51 Matthew Flinders Way, Nhulunbuy, 0880, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Nhulunbuy', 'displayAddress': 'N/A, Nhulunbuy, NT'}
+{'description': 'Bawuda St', 'state': 'NT', 'postCode': 'Ngukurr, 0852', 'displayAddress': 'Bawuda St, Ngukurr, 0852, NT'}
+{'description': 'Bawuda St', 'state': 'NT', 'postCode': 'Ngukurr', 'displayAddress': 'Bawuda St, Ngukurr, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Palumpa', 'displayAddress': 'N/A, Palumpa, NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Emu Point', 'displayAddress': 'n/a, Emu Point, NT'}
+{'description': '11 Drovers Dr', 'state': 'NT', 'postCode': 'Newcastle Waters', 'displayAddress': '11 Drovers Dr, Newcastle Waters, NT'}
+{'description': 'Stuart Hwy', 'state': 'NT', 'postCode': 'Neutral Junction', 'displayAddress': 'Stuart Hwy, Neutral Junction, NT'}
+{'description': '30 Styles St', 'state': 'NT', 'postCode': 'Alawa, 0810', 'displayAddress': '30 Styles St, Alawa, 0810, NT'}
+{'description': '80 Spearwood Rd', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '80 Spearwood Rd, Alice Springs, NT'}
+{'description': '35 Nakara Tce', 'state': 'NT', 'postCode': 'Nakara, 0810', 'displayAddress': '35 Nakara Tce, Nakara, 0810, NT'}
+{'description': 'tba', 'state': 'NT', 'postCode': 'tba', 'displayAddress': 'tba, tba, NT'}
+{'description': '35 Nakara Tce', 'state': 'NT', 'postCode': 'Nakara', 'displayAddress': '35 Nakara Tce, Nakara, NT'}
+{'description': 'Mutitjulu', 'state': 'NT', 'postCode': 'Ayers Rock', 'displayAddress': 'Mutitjulu, Ayers Rock, NT'}
+{'description': 'Kerinauia Highway', 'state': 'NT', 'postCode': 'Nguiu', 'displayAddress': 'Kerinauia Highway, Nguiu, NT'}
+{'description': 'Outstation', 'state': 'NT', 'postCode': 'Murray Downs(Imangara)', 'displayAddress': 'Outstation, Murray Downs(Imangara), NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Mulga Bore Community', 'displayAddress': 'n/a, Mulga Bore Community, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Yuelamu', 'displayAddress': 'N/A, Yuelamu, NT'}
+{'description': '103 Bonson Tce', 'state': 'NT', 'postCode': 'Moulden', 'displayAddress': '103 Bonson Tce, Moulden, NT'}
+{'description': 'Moil Crescent', 'state': 'NT', 'postCode': 'Moil', 'displayAddress': 'Moil Crescent, Moil, NT'}
+{'description': '103 Bonson Tce', 'state': 'NT', 'postCode': 'Moulden, 0830', 'displayAddress': '103 Bonson Tce, Moulden, 0830, NT'}
+{'description': '37 Lanyon Tce', 'state': 'NT', 'postCode': 'Moil, 0810', 'displayAddress': '37 Lanyon Tce, Moil, 0810, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Minyerri (Hodgson Downs)', 'displayAddress': 'N/A, Minyerri (Hodgson Downs), NT'}
+{'description': 'Ginger St', 'state': 'NT', 'postCode': 'Zuccoli', 'displayAddress': 'Ginger St, Zuccoli, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Minyerri (Hodgson Downs)', 'displayAddress': 'N/A, Minyerri (Hodgson Downs), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Milyakburra (Bickerton Island)', 'displayAddress': 'N/A, Milyakburra (Bickerton Island), NT'}
+{'description': '4 Henbury Ave', 'state': 'NT', 'postCode': 'Wanguri, 0810', 'displayAddress': '4 Henbury Ave, Wanguri, 0810, NT'}
+{'description': '41 Sabine Rd', 'state': 'NT', 'postCode': 'Millner', 'displayAddress': '41 Sabine Rd, Millner, NT'}
+{'description': '107 Boulter Road, Berrimah NT 0828', 'state': 'NT', 'postCode': 'Marrara', 'displayAddress': '107 Boulter Road, Berrimah NT 0828, Marrara, NT'}
+{'description': '41 Sabine Rd', 'state': 'NT', 'postCode': 'Millner, 0810', 'displayAddress': '41 Sabine Rd, Millner, 0810, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Milingimbi, 0822', 'displayAddress': 'N/A, Milingimbi, 0822, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Milikapiti (Snake Bay)', 'displayAddress': 'N/A, Milikapiti (Snake Bay), NT'}
+{'description': '615 Anzac Pde', 'state': 'NT', 'postCode': 'Middle Point', 'displayAddress': '615 Anzac Pde, Middle Point, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Mbunghara', 'displayAddress': 'N/A, Mbunghara, NT'}
+{'description': 'Roper Terrace', 'state': 'NT', 'postCode': 'Mataranka, 0852', 'displayAddress': 'Roper Terrace, Mataranka, 0852, NT'}
+{'description': '31 Manunda Tce', 'state': 'NT', 'postCode': 'Karama', 'displayAddress': '31 Manunda Tce, Karama, NT'}
+{'description': 'Dhabulu Rd', 'state': 'NT', 'postCode': 'Mapuru, NT 0822', 'displayAddress': 'Dhabulu Rd, Mapuru, NT 0822, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Manyallaluk (Eva Valley)', 'displayAddress': 'N/A, Manyallaluk (Eva Valley), NT'}
+{'description': '31 Manunda Tce', 'state': 'NT', 'postCode': 'Karama, 0812', 'displayAddress': '31 Manunda Tce, Karama, 0812, NT'}
+{'description': '110 Amy Johnson Ave', 'state': 'NT', 'postCode': 'Marrara', 'displayAddress': '110 Amy Johnson Ave, Marrara, NT'}
+{'description': 'n/a', 'state': 'NT', 'postCode': 'Maningrida, 0822', 'displayAddress': 'n/a, Maningrida, 0822, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Minjilang (Croker Is)', 'displayAddress': 'N/A, Minjilang (Croker Is), NT'}
+{'description': '45 Malak Cres', 'state': 'NT', 'postCode': 'Malak, 0812', 'displayAddress': '45 Malak Cres, Malak, 0812, NT'}
+{'description': '41 Bagot Rd', 'state': 'NT', 'postCode': 'Ludmilla, 0820', 'displayAddress': '41 Bagot Rd, Ludmilla, 0820, NT'}
+{'description': '45 Malak Cres', 'state': 'NT', 'postCode': 'Malak', 'displayAddress': '45 Malak Cres, Malak, NT'}
+{'description': '285 Farrar Boulevard', 'state': 'NT', 'postCode': 'Johnston', 'displayAddress': '285 Farrar Boulevard, Johnston, NT'}
+{'description': '42 Grevillea Rd', 'state': 'NT', 'postCode': 'Katherine East, 0850', 'displayAddress': '42 Grevillea Rd, Katherine East, 0850, NT'}
+{'description': 'Grevillea Rd', 'state': 'NT', 'postCode': 'Katherine East', 'displayAddress': 'Grevillea Rd, Katherine East, NT'}
+{'description': '41 Bagot Rd', 'state': 'NT', 'postCode': 'Ludmilla', 'displayAddress': '41 Bagot Rd, Ludmilla, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Santa Teresa (Ltyenty Apurte)', 'displayAddress': 'N/A, Santa Teresa (Ltyenty Apurte), NT'}
+{'description': 'Cnr Albrecht Dr & Kramer St', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': 'Cnr Albrecht Dr & Kramer St, Alice Springs, NT'}
+{'description': '114 Leanyer Drive,', 'state': 'NT', 'postCode': 'Leanyer, 0812', 'displayAddress': '114 Leanyer Drive,, Leanyer, 0812, NT'}
+{'description': '114 Leanyer Dr', 'state': 'NT', 'postCode': 'Leanyer', 'displayAddress': '114 Leanyer Dr, Leanyer, NT'}
+{'description': 'Galpu Rd', 'state': 'NT', 'postCode': 'Yirrkala', 'displayAddress': 'Galpu Rd, Yirrkala, NT'}
+{'description': '3 Packard St', 'state': 'NT', 'postCode': 'Larrakeyah, 0820', 'displayAddress': '3 Packard St, Larrakeyah, 0820, NT'}
+{'description': '3 Packard St', 'state': 'NT', 'postCode': 'Larrakeyah', 'displayAddress': '3 Packard St, Larrakeyah, NT'}
+{'description': '22 Albrecht Dr', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '22 Albrecht Dr, Alice Springs, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Laramba (Napperby)', 'displayAddress': 'N/A, Laramba (Napperby), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Lajamanu ( Hooker Ck)', 'displayAddress': 'N/A, Lajamanu ( Hooker Ck), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Lajamanu (Hooker Ck)', 'displayAddress': 'N/A, Lajamanu (Hooker Ck), NT'}
+{'description': '11 Kintore St', 'state': 'NT', 'postCode': 'Katherine, 0872', 'displayAddress': '11 Kintore St, Katherine, 0872, NT'}
+{'description': '11 Kintore St', 'state': 'NT', 'postCode': 'Katherine', 'displayAddress': '11 Kintore St, Katherine, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Kiana', 'displayAddress': 'N/A, Kiana, NT'}
+{'description': 'Riverbank Drive', 'state': 'NT', 'postCode': 'Katherine', 'displayAddress': 'Riverbank Drive, Katherine, NT'}
+{'description': '101 Giles St', 'state': 'NT', 'postCode': 'Katherine, 0850', 'displayAddress': '101 Giles St, Katherine, 0850, NT'}
+{'description': 'Riverbank Dr', 'state': 'NT', 'postCode': 'Katherine, 0850', 'displayAddress': 'Riverbank Dr, Katherine, 0850, NT'}
+{'description': 'Grevillea Rd', 'state': 'NT', 'postCode': 'Katherine East, 0850', 'displayAddress': 'Grevillea Rd, Katherine East, 0850, NT'}
+{'description': '5 Kintore St', 'state': 'NT', 'postCode': 'Katherine, 0850', 'displayAddress': '5 Kintore St, Katherine, 0850, NT'}
+{'description': '37 Livistona Rd', 'state': 'NT', 'postCode': 'Karama, 0812', 'displayAddress': '37 Livistona Rd, Karama, 0812, NT'}
+{'description': '37 Livistona Rd', 'state': 'NT', 'postCode': 'Karama', 'displayAddress': '37 Livistona Rd, Karama, NT'}
+{'description': 'Whitlam st', 'state': 'NT', 'postCode': 'Kalkaringi (Wave hill)', 'displayAddress': 'Whitlam st, Kalkaringi (Wave hill), NT'}
+{'description': 'Whitlam St', 'state': 'NT', 'postCode': 'Kalkaringi (Wave hill)', 'displayAddress': 'Whitlam St, Kalkaringi (Wave hill), NT'}
+{'description': '17 Rindberg St', 'state': 'NT', 'postCode': 'Jingili, 0810', 'displayAddress': '17 Rindberg St, Jingili, 0810, NT'}
+{'description': '10 Jingili Tce', 'state': 'NT', 'postCode': 'Jingili', 'displayAddress': '10 Jingili Tce, Jingili, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Jilkminggan (Duck Creek)', 'displayAddress': 'N/A, Jilkminggan (Duck Creek), NT'}
+{'description': '40 Waterhouse Rd', 'state': 'NT', 'postCode': 'Jabiru', 'displayAddress': '40 Waterhouse Rd, Jabiru, NT'}
+{'description': '40 Waterhouse Rd', 'state': 'NT', 'postCode': 'Jabiru', 'displayAddress': '40 Waterhouse Rd, Jabiru, NT'}
+{'description': '22 Albrecht Dr', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '22 Albrecht Dr, Alice Springs, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Imanpa', 'displayAddress': 'N/A, Imanpa, NT'}
+{'description': '15 Parke Cres', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '15 Parke Cres, Alice Springs, NT'}
+{'description': '50 Freds Pass Rd', 'state': 'NT', 'postCode': 'Humpty Doo', 'displayAddress': '50 Freds Pass Rd, Humpty Doo, NT'}
+{'description': '295 Whitewood Rd', 'state': 'NT', 'postCode': 'Howard Springs', 'displayAddress': '295 Whitewood Rd, Howard Springs, NT'}
+{'description': '295 Whitewood Rd', 'state': 'NT', 'postCode': 'Howard Springs, 0835', 'displayAddress': '295 Whitewood Rd, Howard Springs, 0835, NT'}
+{'description': 'Calytrix Road', 'state': 'NT', 'postCode': 'Karama', 'displayAddress': 'Calytrix Road, Karama, NT'}
+{'description': '50 Freds Pass Rd', 'state': 'NT', 'postCode': 'Humpty Doo, 0836', 'displayAddress': '50 Freds Pass Rd, Humpty Doo, 0836, NT'}
+{'description': 'Gsell Street', 'state': 'NT', 'postCode': 'Casuarina', 'displayAddress': 'Gsell Street, Casuarina, NT'}
+{'description': '6057 Berrimah Road', 'state': 'NT', 'postCode': 'Berrimah', 'displayAddress': '6057 Berrimah Road, Berrimah, NT'}
+{'description': '11 Henbury Avenue', 'state': 'NT', 'postCode': 'Tiwi, 0810', 'displayAddress': '11 Henbury Avenue, Tiwi, 0810, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Haasts Bluff (Ikuntji), 0872', 'displayAddress': 'N/A, Haasts Bluff (Ikuntji), 0872, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Atitjere (Harts Range)', 'displayAddress': 'N/A, Atitjere (Harts Range), NT'}
+{'description': '22 Victoria Dr', 'state': 'NT', 'postCode': 'Gray', 'displayAddress': '22 Victoria Dr, Gray, NT'}
+{'description': 'N/a', 'state': 'NT', 'postCode': 'Gunbalanya', 'displayAddress': 'N/a, Gunbalanya, NT'}
+{'description': '22 Victoria Drive', 'state': 'NT', 'postCode': 'Gray, 0830', 'displayAddress': '22 Victoria Drive, Gray, 0830, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Gunbalanya', 'displayAddress': 'N/A, Gunbalanya, NT'}
+{'description': 'Cnr Emery Ave and Temple Tce', 'state': 'NT', 'postCode': 'Palmerston', 'displayAddress': 'Cnr Emery Ave and Temple Tce, Palmerston, NT'}
+{'description': '25 Carruth Rd', 'state': 'NT', 'postCode': 'Girraween, 0835', 'displayAddress': '25 Carruth Rd, Girraween, 0835, NT'}
+{'description': '94 Leanyer Drive', 'state': 'NT', 'postCode': 'Leanyer', 'displayAddress': '94 Leanyer Drive, Leanyer, NT'}
+{'description': 'Cnr Whitewood Rd and Kundook Place', 'state': 'NT', 'postCode': 'Howard Springs', 'displayAddress': 'Cnr Whitewood Rd and Kundook Place, Howard Springs, NT'}
+{'description': '25 Carruth Rd', 'state': 'NT', 'postCode': 'Girraween', 'displayAddress': '25 Carruth Rd, Girraween, NT'}
+{'description': '12 Newland St', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '12 Newland St, Alice Springs, NT'}
+{'description': 'Community ID 508', 'state': 'NT', 'postCode': 'Gawa', 'displayAddress': 'Community ID 508, Gawa, NT'}
+{'description': '55 Milner Rd', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '55 Milner Rd, Alice Springs, 0870, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Gapuwiyak', 'displayAddress': 'N/A, Gapuwiyak, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Finke', 'displayAddress': 'N/A, Finke, NT'}
+{'description': '22 Chapman Rd', 'state': 'NT', 'postCode': 'Rapid Creek', 'displayAddress': '22 Chapman Rd, Rapid Creek, NT'}
+{'description': 'N/a', 'state': 'NT', 'postCode': 'Gapuwiyak', 'displayAddress': 'N/a, Gapuwiyak, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Wutunugurra (Epenarra)', 'displayAddress': 'N/A, Wutunugurra (Epenarra), NT'}
+{'description': '120 Flynn Circuit', 'state': 'NT', 'postCode': 'Bellamack, 0832', 'displayAddress': '120 Flynn Circuit, Bellamack, 0832, NT'}
+{'description': 'Mitchell St', 'state': 'NT', 'postCode': 'Darwin, 0800', 'displayAddress': 'Mitchell St, Darwin, 0800, NT'}
+{'description': '91 Bray St', 'state': 'NT', 'postCode': 'Elliott', 'displayAddress': '91 Bray St, Elliott, NT'}
+{'description': '50 Woodlake Bvd', 'state': 'NT', 'postCode': 'Durack, 0830', 'displayAddress': '50 Woodlake Bvd, Durack, 0830, NT'}
+{'description': '50 Woodlake Blvd', 'state': 'NT', 'postCode': 'Durack', 'displayAddress': '50 Woodlake Blvd, Durack, NT'}
+{'description': '500 Namarada Dr', 'state': 'NT', 'postCode': 'Dundee Beach', 'displayAddress': '500 Namarada Dr, Dundee Beach, NT'}
+{'description': '37 Driver Ave', 'state': 'NT', 'postCode': 'Driver, 0830', 'displayAddress': '37 Driver Ave, Driver, 0830, NT'}
+{'description': '37 Driver Ave', 'state': 'NT', 'postCode': 'Driver', 'displayAddress': '37 Driver Ave, Driver, NT'}
+{'description': '10 Delamere St', 'state': 'NT', 'postCode': 'Tiwi, 0810', 'displayAddress': '10 Delamere St, Tiwi, 0810, NT'}
+{'description': 'Jungawa Rd', 'state': 'NT', 'postCode': 'Douglas-Daly', 'displayAddress': 'Jungawa Rd, Douglas-Daly, NT'}
+{'description': '116 Gunyangara Rd', 'state': 'NT', 'postCode': 'Gunyangara, 0880', 'displayAddress': '116 Gunyangara Rd, Gunyangara, 0880, NT'}
+{'description': 'Atkins Drive, The Gardens, NT 0820', 'state': 'NT', 'postCode': 'not available', 'displayAddress': 'Atkins Drive, The Gardens, NT 0820, not available, NT'}
+{'description': '1 Nemarluk Dr, Ludmilla', 'state': 'NT', 'postCode': 'NT', 'displayAddress': '1 Nemarluk Dr, Ludmilla, NT, NT'}
+{'description': '10 Atkins Dr', 'state': 'NT', 'postCode': 'The Gardens, 0820', 'displayAddress': '10 Atkins Dr, The Gardens, 0820, NT'}
+{'description': '101 Giles St', 'state': 'NT', 'postCode': 'Katherine, 0850', 'displayAddress': '101 Giles St, Katherine, 0850, NT'}
+{'description': '101 Giles St', 'state': 'NT', 'postCode': 'Katherine', 'displayAddress': '101 Giles St, Katherine, NT'}
+{'description': 'Casuarina St', 'state': 'NT', 'postCode': 'Katherine East, 0850', 'displayAddress': 'Casuarina St, Katherine East, 0850, NT'}
+{'description': '10 Grevillea Drive', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '10 Grevillea Drive, Alice Springs, 0870, NT'}
+{'description': '56 Milner Rd', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '56 Milner Rd, Alice Springs, 0870, NT'}
+{'description': 'Casuarina St', 'state': 'NT', 'postCode': 'Katherine East', 'displayAddress': 'Casuarina St, Katherine East, NT'}
+{'description': '61 Parer Dr', 'state': 'NT', 'postCode': 'Moil, 0810', 'displayAddress': '61 Parer Dr, Moil, 0810, NT'}
+{'description': 'N/a', 'state': 'NT', 'postCode': 'Canteen Creek', 'displayAddress': 'N/a, Canteen Creek, NT'}
+{'description': '80 Callistemon Dr', 'state': 'NT', 'postCode': 'Katherine East, 0850', 'displayAddress': '80 Callistemon Dr, Katherine East, 0850, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Bulman', 'displayAddress': 'N/A, Bulman, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Bulla', 'displayAddress': 'N/A, Bulla, NT'}
+{'description': '80 Head St', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '80 Head St, Alice Springs, 0870, NT'}
+{'description': '80 Head St', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '80 Head St, Alice Springs, NT'}
+{'description': '23 Adamson Ave', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '23 Adamson Ave, Alice Springs, 0870, NT'}
+{'description': '23 Adamson Ave', 'state': 'NT', 'postCode': 'Alice Springs', 'displayAddress': '23 Adamson Ave, Alice Springs, NT'}
+{'description': '321 Robinson Rd', 'state': 'NT', 'postCode': 'Borroloola, 0854', 'displayAddress': '321 Robinson Rd, Borroloola, 0854, NT'}
+{'description': '321 Robinson Road', 'state': 'NT', 'postCode': 'Borroloola', 'displayAddress': '321 Robinson Road, Borroloola, NT'}
+{'description': 'Community ID 26', 'state': 'NT', 'postCode': 'Orrtipa-Thurra (Bonya)', 'displayAddress': 'Community ID 26, Orrtipa-Thurra (Bonya), NT'}
+{'description': '1150 Cox Peninsula Rd', 'state': 'NT', 'postCode': 'Berry Springs, 0838', 'displayAddress': '1150 Cox Peninsula Rd, Berry Springs, 0838, NT'}
+{'description': '1150 Cox Peninsula Rd', 'state': 'NT', 'postCode': 'Berry Springs', 'displayAddress': '1150 Cox Peninsula Rd, Berry Springs, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Belyuen', 'displayAddress': 'N/A, Belyuen, NT'}
+{'description': '20 Sattler Cres', 'state': 'NT', 'postCode': 'Freds Pass', 'displayAddress': '20 Sattler Cres, Freds Pass, NT'}
+{'description': '20 Sattler Cres', 'state': 'NT', 'postCode': 'Freds Pass', 'displayAddress': '20 Sattler Cres, Freds Pass, NT'}
+{'description': '71 Kirra Cres', 'state': 'NT', 'postCode': 'Batchelor', 'displayAddress': '71 Kirra Cres, Batchelor, NT'}
+{'description': '71 Kirra Cres', 'state': 'NT', 'postCode': 'Batchelor, 0845', 'displayAddress': '71 Kirra Cres, Batchelor, 0845, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Barunga  (Bamyili)', 'displayAddress': 'N/A, Barunga  (Bamyili), NT'}
+{'description': 'Yilpara Community', 'state': 'NT', 'postCode': 'Yirrkala, 0880', 'displayAddress': 'Yilpara Community, Yirrkala, 0880, NT'}
+{'description': '1 Forrest Parade', 'state': 'NT', 'postCode': 'Bakewell, 0832', 'displayAddress': '1 Forrest Parade, Bakewell, 0832, NT'}
+{'description': '5 Hutchison Tce', 'state': 'NT', 'postCode': 'Bakewell, 0832', 'displayAddress': '5 Hutchison Tce, Bakewell, 0832, NT'}
+{'description': '25 Bowerlee Road', 'state': 'NT', 'postCode': 'Berrimah NT 0828', 'displayAddress': '25 Bowerlee Road, Berrimah NT 0828, NT'}
+{'description': None, 'state': 'NT', 'postCode': 'Arlparra Community, Utopia', 'displayAddress': ', Arlparra Community, Utopia, NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Ali Curung (Warrabri)', 'displayAddress': 'N/A, Ali Curung (Warrabri), NT'}
+{'description': 'N/A', 'state': 'NT', 'postCode': 'Engawala (Alcoota Stn)', 'displayAddress': 'N/A, Engawala (Alcoota Stn), NT'}
+{'description': '27 Pett Street', 'state': 'NT', 'postCode': 'Alawa, 0810', 'displayAddress': '27 Pett Street, Alawa, 0810, NT'}
+{'description': '27 Pett St', 'state': 'NT', 'postCode': 'Alawa', 'displayAddress': '27 Pett St, Alawa, NT'}
+{'description': '31 Memorial Tce', 'state': 'NT', 'postCode': 'Adelaide River, 0846', 'displayAddress': '31 Memorial Tce, Adelaide River, 0846, NT'}
+{'description': '80 Spearwood Rd', 'state': 'NT', 'postCode': 'Alice Springs, 0870', 'displayAddress': '80 Spearwood Rd, Alice Springs, 0870, NT'}
