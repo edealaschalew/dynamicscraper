@@ -41,4 +41,3 @@ Please be aware of the legal and ethical considerations when scraping websites. 
 
 ---
 
-Feel free to modify this description based on the specific details and features of your project.
