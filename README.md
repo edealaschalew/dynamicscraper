@@ -1,6 +1,4 @@
-Certainly! Here's a GitHub project description for your dynamic site scraper:
 
----
 
 # Dynamic Site Scraper for Northern Territory Schools in Australia
 
